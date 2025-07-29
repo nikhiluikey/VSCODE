@@ -10,5 +10,5 @@ class linklist{
 };
 
 int main(){
-cout<<"a" <<endl;
+cout<<"gande admi" <<endl;
 }
